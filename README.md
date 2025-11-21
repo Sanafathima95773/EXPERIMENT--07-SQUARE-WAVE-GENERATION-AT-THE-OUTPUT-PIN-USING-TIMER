@@ -213,6 +213,8 @@ Step14. click on debug and simulate using simulation as shown below
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ <img width="832" height="525" alt="image" src="https://github.com/user-attachments/assets/087a8348-0817-49ab-ab25-6cef39e96416" />
+
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
